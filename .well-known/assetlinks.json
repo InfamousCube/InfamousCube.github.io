@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.leo.deaddrop",
+      "sha256_cert_fingerprints": [
+        "F7:36:08:07:E9:F3:2F:E9:B6:53:E5:7D:F3:B3:98:CE:48:7A:26:42:93:EB:60:3C:78:EA:A4:BF:0D:92:3F:7E"
+      ]
+    }
+  }
+]
